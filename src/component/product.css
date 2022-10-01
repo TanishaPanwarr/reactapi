@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+
+}
+h2{
+    color: crimson;
+}
+h1{
+    color:midnightblue
+}
+h3{
+    color: deeppink;
+}
+table{
+    border: 2px solid brown;
+    padding-top: 2px;
+    text-align :center;
+
+}
+div{
+    float: left;
+    margin-left: 10px;
+}
